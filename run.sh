@@ -1,0 +1,1 @@
+streamlit run app.py --server.port 8001 -- --cypher prompts/text2cypherPrompt.txt --loanPrompt prompts/loanPrompt.txt --metadataPrompt prompts/metadataPrompt.txt

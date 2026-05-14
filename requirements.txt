@@ -1,0 +1,9 @@
+argparse
+python-dotenv
+streamlit
+neo4j
+langchain-core
+langchain-community
+langchain-openai
+print-color
+langchain-neo4j
