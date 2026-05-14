@@ -68,7 +68,7 @@ Response Generation
 
 ## Project Structure
 
-
+```text
 prompts/               Prompt templates
 assets/                Static assets
 app.py                 Main application
@@ -79,7 +79,7 @@ example_provider.py    Semantic example retrieval
 metadata_examples.py   Metadata query examples
 utils.py               Utility functions
 run.sh                 Application startup script
-
+```
 
 
 
